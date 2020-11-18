@@ -206,5 +206,12 @@ footer{
     grid-template-columns: 1fr 2fr;
     column-gap: 20px;
   }
+  
+  .profile{
+    border-radius: 50%;
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+  }
 
 }
