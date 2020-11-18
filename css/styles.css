@@ -72,6 +72,13 @@ header{
   color: #F7FFF7;
 }
 
+.profile{
+  border-radius: 50%;
+  display: inline-block;
+  width: 50%
+  height: 30%;
+}
+
 /* Projects
 ---------------------------------------*/
 .projects{
